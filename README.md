@@ -1,1 +1,1 @@
-# Patterns
+# Simple Abstract Factory Pattern implementation.
